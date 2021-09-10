@@ -1,6 +1,6 @@
 # Namaste 🙏
 ### I'm Niharika Dhanik !!
-### A Final Year Computer Engineering Student Who Is Interested In DEVOPS Technology!
+### A Final Year Computer Engineering Student Who Is Interested In DEVOPS
 
 
 - I’m Currently Working on DevOps Tech Stack
