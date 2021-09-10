@@ -1,6 +1,8 @@
 # Namaste 🙏
-### I'm Niharika Dhanik, A Final Year Computer Engineering Student Who Is Interested In DEVOPS!!
+### I'm Niharika Dhanik, Final Year Computer Engineering Student, A Full Stack Web Developer &  DevOps Enthusiast!
+<br/>
 
+ 
 ## 👩‍💻 About Me:
 - I’m Currently Working on DevOps Tech Stack
 - I’m Currently Learning Openshift and Ansible
@@ -9,9 +11,12 @@
 - 2022 Goals: Begin with Open Source Contributions and Cyber Security
 - Pronouns: She/Her
 - Other Areas Of Interest: 
+    - Listening Music   
     - Indian Mythology
     - Astronomy
     - Astrology
+    - Sketching
+    - Sleeping
     
     
 <br><br>
@@ -58,8 +63,8 @@
 <br/><br/>
 ## 🔗 Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/niharika-dhanik"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://niharicka.medium.com/"><img src="https://img.icons8.com/color/48/000000/medium-logo--v2.png"/>
-<a href = "dhanikniharika05@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+<a href = "https://www.linkedin.com/in/niharika-dhanik"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> &nbsp;&nbsp;
+<a href = "https://niharicka.medium.com/"><img src="https://img.icons8.com/color/48/000000/medium-logo--v2.png"/> &nbsp;&nbsp;
+<a href = "mailto:dhanikniharika05@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>&nbsp;
 </p>
 
