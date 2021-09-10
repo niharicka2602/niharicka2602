@@ -15,23 +15,31 @@
     
     
 <br><br>
-## 🚀 Languages and Tools:
+## 🚀 Languages and Technologies:
 <p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>     
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
+    <a href="https://www.ansible.com/"> <img src="https://img.icons8.com/fluency/48/000000/ansible.png"/> </a>
+    <a href="https://www.docker.com/"/> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/> </a>
+    <a href="https://kubernetes.io/"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> </a>
+    <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift"/> <img src="https://github.com/niharicka2602/niharicka2602/blob/main/openshift%20logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://github.com/"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"><img src="https://img.icons8.com/color/48/000000/linux--v2.png"/></a>
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>       
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+     
+    
 </p>
 
 
 <br><br>
-## 📈 My Streak Stats
+## 🔥 My Streak Stats
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Niharika Dhanik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niharicka2602&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img alt="Niharika Dhanik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niharicka2602&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
