@@ -1,6 +1,5 @@
 ### Namaste, I'm Niharika Dhanik 🙏
 
-Here are some ideas to get you started:
 
 - 🔭 I’m Currently Working on DevOps Tech Stack
 - 🌱 I’m Currently Learning Openshift and Ansible
