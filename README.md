@@ -33,7 +33,8 @@
     <a href="https://github.com/"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>    
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>    
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://www.terraform.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/terraform.png"/> </a>  
 </p>
     <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"><img src="https://img.icons8.com/color/48/000000/linux--v2.png"/></a>
     <a href="https://www.centos.org/"><img src="https://img.icons8.com/color/48/000000/centos.png"/></a>
