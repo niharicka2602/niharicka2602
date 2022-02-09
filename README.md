@@ -67,7 +67,7 @@
 <br/><br/>
 ## 🔗 Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/niharika-dhanik"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> &nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/niharikadhanik/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> &nbsp;&nbsp;
 <a href = "https://niharicka.medium.com/"><img src="https://img.icons8.com/color/48/000000/medium-logo--v2.png"/> &nbsp;&nbsp;
 <a href = "mailto:dhanikniharika05@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>&nbsp;
 </p>
