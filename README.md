@@ -4,7 +4,7 @@
 
  
 ## 👩‍💻 About Me:
-- I’m Currently Working on DevOps Tech Stack
+- I’m Currently Practising DevOps.
 - I’m Currently Learning Openshift and Ansible
 - I’m Looking To Collaborate With DevOps Integrators
 - I’m Looking For Help In Learning Hacking & Cyber Security
