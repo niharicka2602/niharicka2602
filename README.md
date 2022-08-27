@@ -1,5 +1,5 @@
 # Namaste 🙏
-### I'm Niharika Dhanik, Final Year Computer Engineering Student, A Full Stack Web Developer &  DevOps Enthusiast!
+### I'm Niharika Dhanik, a Cloud Engineer & DevOps Enthusiast!
 <br/>
 
  
